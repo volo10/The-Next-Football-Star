@@ -1,4 +1,4 @@
-Running our prject is actually very simple, only take a few steps:
+Running our project is actually very simple, it will only take a few steps:
 1) Open a ipynb IDE such as Anaconda or Google Collab
 2) Upload the 3 files saved in the "Datasets" directory: "players_20.csv", "players_21.csv", "players_22.csv"
 3) Install the 3 packages in the first 3 cells and wait till finishes: "optuna", "pytorch-tabnet", "catboost"
